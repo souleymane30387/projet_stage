@@ -1,0 +1,46 @@
+{
+  "utilisateurs": [
+    {
+      "id": "6c82",
+      "mail": "baillo30388@gmail.com",
+      "password": "thie30387",
+      "passwordConfirm": "thie30387"
+    },
+    {
+      "id": "bc5e",
+      "mail": "baillo30387@gmail.com",
+      "password": "thie30387",
+      "passwordConfirm": "thie30387"
+    },
+    {
+      "id": "efaa",
+      "mail": "baillo30386@gmail.com",
+      "password": "thie30387",
+      "passwordConfirm": "thie30387"
+    },
+    {
+      "id": "9743",
+      "mail": "baillo30385@gmail.com",
+      "password": "thie30387",
+      "passwordConfirm": "thie30387"
+    },
+    {
+      "id": "db40",
+      "mail": "abduldiawade@gmail.com",
+      "password": "Dieumerci",
+      "passwordConfirm": "Dieumerci"
+    },
+    {
+      "id": "079e",
+      "mail": "baillo30380@gmail.com",
+      "password": "Thie30387",
+      "passwordConfirm": "Thie30387"
+    },
+    {
+      "id": "7517",
+      "mail": "baillo30288@gmail.com",
+      "password": "thie30387",
+      "passwordConfirm": "thie30387"
+    }
+  ]
+}

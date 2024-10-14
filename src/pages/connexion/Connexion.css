@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tou{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:100%;
+    height: 100vh;
+    
+    
+}
+
+
+.formulair{
+    margin-left: 50px;
+    border: 20px solid rgb(51, 111, 122);
+    border-radius: 100px;
+    padding: 10px 100px;
+    background-color: aqua;
+   
+}
+
+
+.titr{
+    margin: 20px;
+}
+.for {
+    display: flex;
+    flex-direction: column;
+    width: 300px; 
+    margin: 0 auto;
+  }
+input{
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 17px;
+}
+
+.bouto button{
+   width: 100px;
+   background-color: aqua;
+   margin: 10px;
+   padding: 5px;
+   border-radius: 50px;
+  
+}
+.bouto{
+    text-align: end;
+}
+
+a{
+    text-decoration: none;
+}
+
+input:not(:placeholder-shown) {
+    background-color: rgb(232, 240, 254); /* Vert clair */
+}
