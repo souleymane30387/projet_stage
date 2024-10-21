@@ -41,6 +41,12 @@
       "mail": "baillo30288@gmail.com",
       "password": "thie30387",
       "passwordConfirm": "thie30387"
+    },
+    {
+      "id": "a0ba",
+      "mail": "yahoub@gmail.com",
+      "password": "azerty",
+      "passwordConfirm": "azerty"
     }
   ]
 }
